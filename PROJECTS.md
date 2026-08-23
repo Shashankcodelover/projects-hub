@@ -2,59 +2,74 @@
 
 Updated: 2026-08-23 UTC
 
-This file is the canonical, public index of your repositories (priorities, clone URLs, and last-push times).
+This file is the canonical, public index of your repositories (project name, repository URL, clone command, repo ID, and last-push time).
 
-Top priority projects (your selection — NetPlus-CRM- added as requested)
+Top priority projects (your selection — NetPlus-CRM- added)
 
 1. NetPlus-CRM-
-   - Repo: https://github.com/Shashankcodelover/NetPlus-CRM-
+   - Repo URL: https://github.com/Shashankcodelover/NetPlus-CRM-
    - Clone: git clone https://github.com/Shashankcodelover/NetPlus-CRM-.git
+   - Repo ID: 1343505132
    - Last pushed: 2026-08-23T07:45:53Z
 
 2. blood-match-api
-   - Repo: https://github.com/Shashankcodelover/blood-match-api
+   - Repo URL: https://github.com/Shashankcodelover/blood-match-api
    - Clone: git clone https://github.com/Shashankcodelover/blood-match-api.git
+   - Repo ID: 1236747216
    - Last pushed: 2026-08-23T07:14:56Z
 
 3. Smart_Attendance_System
-   - Repo: https://github.com/Shashankcodelover/Smart_Attendance_System
+   - Repo URL: https://github.com/Shashankcodelover/Smart_Attendance_System
    - Clone: git clone https://github.com/Shashankcodelover/Smart_Attendance_System.git
+   - Repo ID: 1291886546
    - Last pushed: 2026-08-23T07:02:17Z
 
 4. Placement-Clash-Resolver
-   - Repo: https://github.com/Shashankcodelover/Placement-Clash-Resolver
+   - Repo URL: https://github.com/Shashankcodelover/Placement-Clash-Resolver
    - Clone: git clone https://github.com/Shashankcodelover/Placement-Clash-Resolver.git
+   - Repo ID: 1291885607
    - Last pushed: 2026-08-23T07:01:13Z
 
 5. Campus-Search
-   - Repo: https://github.com/Shashankcodelover/Campus-Search
+   - Repo URL: https://github.com/Shashankcodelover/Campus-Search
    - Clone: git clone https://github.com/Shashankcodelover/Campus-Search.git
+   - Repo ID: 1341561866
    - Last pushed: 2026-08-23T07:14:21Z
 
 6. Phoenix-Interview-Prep_and_Hackathon_Guide
-   - Repo: https://github.com/Shashankcodelover/Phoenix-Interview-Prep_and_Hackathon_Guide
+   - Repo URL: https://github.com/Shashankcodelover/Phoenix-Interview-Prep_and_Hackathon_Guide
    - Clone: git clone https://github.com/Shashankcodelover/Phoenix-Interview-Prep_and_Hackathon_Guide.git
+   - Repo ID: 1291882621
    - Last pushed: 2026-08-23T07:01:54Z
 
 7. Devflow-Pro
-   - Repo: https://github.com/Shashankcodelover/Devflow-Pro
+   - Repo URL: https://github.com/Shashankcodelover/Devflow-Pro
    - Clone: git clone https://github.com/Shashankcodelover/Devflow-Pro.git
+   - Repo ID: 1338265542
    - Last pushed: 2026-08-22T07:49:05Z
 
 8. Decentralized-Disaster-Response-Resource-Geofencing-System
-   - Repo: https://github.com/Shashankcodelover/Decentralized-Disaster-Response-Resource-Geofencing-System
+   - Repo URL: https://github.com/Shashankcodelover/Decentralized-Disaster-Response-Resource-Geofencing-System
    - Clone: git clone https://github.com/Shashankcodelover/Decentralized-Disaster-Response-Resource-Geofencing-System.git
+   - Repo ID: 1203807020
    - Last pushed: 2026-08-23T07:02:03Z
 
 Team / history (lower priority)
-- CrimsonSentinel-AI-Interview-Agent — git clone https://github.com/Shashankcodelover/CrimsonSentinel-AI-Interview-Agent.git
-- github-stats-transparent — git clone https://github.com/Shashankcodelover/github-stats-transparent.git
+- CrimsonSentinel-AI-Interview-Agent
+   - Repo URL: https://github.com/Shashankcodelover/CrimsonSentinel-AI-Interview-Agent
+   - Clone: git clone https://github.com/Shashankcodelover/CrimsonSentinel-AI-Interview-Agent.git
+   - Repo ID: 1327346081
+
+- github-stats-transparent
+   - Repo URL: https://github.com/Shashankcodelover/github-stats-transparent
+   - Clone: git clone https://github.com/Shashankcodelover/github-stats-transparent.git
+   - Repo ID: 1341639500
 
 Newly discovered / recent repos
-- NetPlus-CRM- — https://github.com/Shashankcodelover/NetPlus-CRM- (created & pushed 2026-08-23)
-- ArchitectAI-Studio — https://github.com/Shashankcodelover/ArchitectAI-Studio
-- Spotify-Web-App — https://github.com/Shashankcodelover/Spotify-Web-App
-- projects-hub — https://github.com/Shashankcodelover/projects-hub (this repository)
+- NetPlus-CRM- — https://github.com/Shashankcodelover/NetPlus-CRM- (Repo ID: 1343505132)
+- ArchitectAI-Studio — https://github.com/Shashankcodelover/ArchitectAI-Studio (Repo ID: 1343505452)
+- Spotify-Web-App — https://github.com/Shashankcodelover/Spotify-Web-App (Repo ID: 1343507069)
+- projects-hub — https://github.com/Shashankcodelover/projects-hub (Repo ID: 1343504650)
 
 Full public repository list (snapshot)
 - 21-number-game-  — git clone https://github.com/Shashankcodelover/21-number-game-.git
@@ -103,4 +118,4 @@ Full public repository list (snapshot)
 
 ---
 
-If you want additional metadata (descriptions, status like WIP/Completed, or a short README per top project), tell me and I will update PROJECTS.md. If you want me to also create a releases/issue tracker or badges, I can add templates to this repo.
+If you want additional metadata (descriptions, status like WIP/Completed, or a short README per top project), tell me and I will update PROJECTS.md.
