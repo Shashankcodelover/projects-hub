@@ -54,6 +54,12 @@ Top priority projects (your selection — NetPlus-CRM- added)
    - Repo ID: 1203807020
    - Last pushed: 2026-08-23T07:02:03Z
 
+9. ArchitectAI-Studio
+   - Repo URL: https://github.com/Shashankcodelover/ArchitectAI-Studio
+   - Clone: git clone https://github.com/Shashankcodelover/ArchitectAI-Studio.git
+   - Repo ID: 1343505452
+   - Last pushed: 2026-08-23T07:56:43Z
+
 Team / history (lower priority)
 - CrimsonSentinel-AI-Interview-Agent
    - Repo URL: https://github.com/Shashankcodelover/CrimsonSentinel-AI-Interview-Agent
