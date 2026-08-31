@@ -76,6 +76,7 @@ Newly discovered / recent repos
 - ArchitectAI-Studio — https://github.com/Shashankcodelover/ArchitectAI-Studio (Repo ID: 1343505452)
 - Spotify-Web-App — https://github.com/Shashankcodelover/Spotify-Web-App (Repo ID: 1343507069)
 - projects-hub — https://github.com/Shashankcodelover/projects-hub (Repo ID: 1343504650)
+- RegulAIte — https://github.com/Shashankcodelover/RegulAIte (Repo ID: 1245525623)
 
 Full public repository list (snapshot)
 - 21-number-game-  — git clone https://github.com/Shashankcodelover/21-number-game-.git
@@ -112,7 +113,7 @@ Full public repository list (snapshot)
 - Placement-Clash-Resolver  — git clone https://github.com/Shashankcodelover/Placement-Clash-Resolver.git
 - projects-hub  — git clone https://github.com/Shashankcodelover/projects-hub.git
 - quantum-shield  — git clone https://github.com/Shashankcodelover/quantum-shield.git
-- Regul-Alte  — git clone https://github.com/Shashankcodelover/Regul-Alte.git
+- RegulAIte  — git clone https://github.com/Shashankcodelover/RegulAIte.git
 - regulaite-ai  — git clone https://github.com/Shashankcodelover/regulaite-ai.git
 - rock_paper_sessor_game  — git clone https://github.com/Shashankcodelover/rock_paper_sessor_game.git
 - Shashankcodelover  — git clone https://github.com/Shashankcodelover/Shashankcodelover.git
