@@ -37,8 +37,8 @@ Top priority projects (current canonical names & active repos)
    - Last pushed: 2026-08-31T05:39:27Z
 
 6. Phoenix-Interview-Prep_and_Hackathon_Guide (Phoenix)
-   - Repo URL: https://github.com/Shashankcodelover/Phoenix-Interview-Prep_and_Hackathon_Guide
-   - Clone: git clone https://github.com/Shashankcodelover/Phoenix-Interview-Prep_and_Hackathon_Guide.git
+   - Repo URL: https://github.com/Shashankcodelover/Phoenix
+   - Clone: git clone https://github.com/Shashankcodelover/Phoenix.git
    - Repo ID: 1291882621
    - Last pushed: 2026-08-25T14:34:36Z
 
@@ -61,10 +61,10 @@ Top priority projects (current canonical names & active repos)
    - Last pushed: 2026-08-25T13:46:14Z
 
 10. FLARE (Decentralized Disaster Response / Geofencing system)
-   - Repo URL: https://github.com/Shashankcodelover/FLARE
-   - Clone: git clone https://github.com/Shashankcodelover/FLARE.git
-   - Repo ID: 1203807020
-   - Last pushed: 2026-08-25T14:25:17Z
+    - Repo URL: https://github.com/Shashankcodelover/FLARE
+    - Clone: git clone https://github.com/Shashankcodelover/FLARE.git
+    - Repo ID: 1203807020
+    - Last pushed: 2026-08-25T14:25:17Z
 
 Team / history (lower priority)
 - CrimsonSentinel-AI-Interview-Agent
@@ -107,7 +107,7 @@ Full public repository list (snapshot)
 - NyayaNode  — git clone https://github.com/Shashankcodelover/NyayaNode.git
 - overall_funtions  — git clone https://github.com/Shashankcodelover/overall_funtions.git
 - Pattern-printing-  — git clone https://github.com/Shashankcodelover/Pattern-printing-.git
-- Phoenix-Interview-Prep_and_Hackathon_Guide  — git clone https://github.com/Shashankcodelover/Phoenix-Interview-Prep_and_Hackathon_Guide.git
+- Phoenix-Interview-Prep_and_Hackathon_Guide  — git clone https://github.com/Shashankcodelover/Phoenix.git
 - pics  — git clone https://github.com/Shashankcodelover/pics.git
 - Placement-Clash-Resolver  — git clone https://github.com/Shashankcodelover/Placement-Clash-Resolver.git
 - projects-hub  — git clone https://github.com/Shashankcodelover/projects-hub.git
