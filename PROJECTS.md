@@ -2,7 +2,7 @@
 
 Updated: 2026-08-31 UTC
 
-This file is the canonical, public index of your repositories (project name, repository URL, clone command, repo ID, and last-push time).
+This file is the canonical, public index of your repositories (project name, repository URL, clone command, repo ID, last-push time, and live deployment URL when available).
 
 Top priority projects (current canonical names & active repos)
 
@@ -11,60 +11,70 @@ Top priority projects (current canonical names & active repos)
    - Clone: git clone https://github.com/Shashankcodelover/NetPulse.git
    - Repo ID: 1343505132
    - Last pushed: 2026-08-23T08:50:00Z
+   - Live: https://netpulse.shashankj.tech
 
 2. LifeStream-V3 (Geospatial blood logistics dispatch network)
    - Repo URL: https://github.com/Shashankcodelover/LifeStream-V3
    - Clone: git clone https://github.com/Shashankcodelover/LifeStream-V3.git
    - Repo ID: 1236747216
    - Last pushed: 2026-08-31T06:29:57Z
+   - Live: https://lifestream-v3.shashankj.tech
 
 3. Smart_Attendance_System (Offline-first QR/OTP attendance portal)
    - Repo URL: https://github.com/Shashankcodelover/Smart_Attendance_System
    - Clone: git clone https://github.com/Shashankcodelover/Smart_Attendance_System.git
    - Repo ID: 1291886546
    - Last pushed: 2026-08-25T14:24:07Z
+   - Live: https://smart-attendance-system.shashankj.tech
 
 4. Placement-Clash-Resolver (Bipartite graph scheduling router)
    - Repo URL: https://github.com/Shashankcodelover/Placement-Clash-Resolver
    - Clone: git clone https://github.com/Shashankcodelover/Placement-Clash-Resolver.git
    - Repo ID: 1291885607
    - Last pushed: 2026-08-25T14:34:10Z
+   - Live: https://placement-clash-resolver.shashankj.tech
 
 5. Campus-Search (Real-time engineering parts marketplace)
    - Repo URL: https://github.com/Shashankcodelover/Campus-Search
    - Clone: git clone https://github.com/Shashankcodelover/Campus-Search.git
    - Repo ID: 1341561866
    - Last pushed: 2026-08-31T05:39:27Z
+   - Live: https://campus-search.shashankj.tech
 
 6. Phoenix-Interview-Prep_and_Hackathon_Guide (Phoenix)
    - Repo URL: https://github.com/Shashankcodelover/Phoenix
    - Clone: git clone https://github.com/Shashankcodelover/Phoenix.git
    - Repo ID: 1291882621
    - Last pushed: 2026-08-25T14:34:36Z
+   - Live: https://phoenix.shashankj.tech
 
 7. Devflow-Pro (Full-stack productivity and session tracker)
    - Repo URL: https://github.com/Shashankcodelover/Devflow-Pro
    - Clone: git clone https://github.com/Shashankcodelover/Devflow-Pro.git
    - Repo ID: 1338265542
    - Last pushed: 2026-08-23T08:52:42Z
+   - Live: https://devflow-pro.shashankj.tech
 
 8. RegulAIte (Autonomous multi-agent contract compliance analyzer) — canonical (non-fork)
    - Repo URL: https://github.com/Shashankcodelover/RegulAIte
    - Clone: git clone https://github.com/Shashankcodelover/RegulAIte.git
    - Repo ID: 1245525623
    - Last pushed: 2026-05-23T15:31:00Z
+   - Live: https://regulaite.shashankj.tech
 
 9. ArchitectAI-Studio (LangGraph-powered system-design canvas)
    - Repo URL: https://github.com/Shashankcodelover/ArchitectAI-Studio
    - Clone: git clone https://github.com/Shashankcodelover/ArchitectAI-Studio.git
    - Repo ID: 1343505452
    - Last pushed: 2026-08-25T13:46:14Z
+   - Live: https://architectai-studio.shashankj.tech
 
 10. FLARE (Decentralized Disaster Response / Geofencing system)
     - Repo URL: https://github.com/Shashankcodelover/FLARE
     - Clone: git clone https://github.com/Shashankcodelover/FLARE.git
     - Repo ID: 1203807020
     - Last pushed: 2026-08-25T14:25:17Z
+    - Live: https://flare.shashankj.tech
 
 Team / history (lower priority)
 - CrimsonSentinel-AI-Interview-Agent
