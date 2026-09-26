@@ -1,46 +1,41 @@
-# Projects Hub — Live Deployments
+# Projects Hub — Master Project Links
 
-Updated: 2026-09-20 UTC
+Updated: 2026-09-26 UTC
 
-## Shashank J
+This README is the quick-access index for the 12 priority projects, their live deployments under `shashankj.tech`, and their corresponding GitHub repositories.
 
-GitHub profile: https://github.com/Shashankcodelover
+## 12 Priority Projects
 
-This README provides quick access to the live deployments for the top projects listed in PROJECTS.md. Use the links below to open each live demo (and the raw URL block for easy copy/paste).
+| # | Project Name | Live Domain | GitHub Repository |
+|---|---|---|---|
+| 1 | **LifeStream V3** | [lifestream-v3.shashankj.tech](https://lifestream-v3.shashankj.tech) | [shashank-workspace/life-stream-v3](https://github.com/shashank-workspace/life-stream-v3) |
+| 2 | **RegulAIte** | [regulaite.shashankj.tech](https://regulaite.shashankj.tech) | [shashank-workspace/regulaite](https://github.com/shashank-workspace/regulaite) |
+| 3 | **FLARE** | [flare.shashankj.tech](https://flare.shashankj.tech) | [shashank-workspace/flare](https://github.com/shashank-workspace/flare) |
+| 4 | **Placement Clash Resolver** | [placement-clash-resolver.shashankj.tech](https://placement-clash-resolver.shashankj.tech) | [shashank-workspace/placement-clash-resolver](https://github.com/shashank-workspace/placement-clash-resolver) |
+| 5 | **Phoenix** | [phoenix.shashankj.tech](https://phoenix.shashankj.tech) | [shashank-workspace/phoenix](https://github.com/shashank-workspace/phoenix) |
+| 6 | **Smart Attendance System** | [smart-attendance-system.shashankj.tech](https://smart-attendance-system.shashankj.tech) | [shashank-workspace/smart-attendance-system](https://github.com/shashank-workspace/smart-attendance-system) |
+| 7 | **Net Pulse** | [net-pulse.shashankj.tech](https://net-pulse.shashankj.tech) | [shashank-workspace/net-pulse](https://github.com/shashank-workspace/net-pulse) |
+| 8 | **Kannada OTT** | [kannada-ott.shashankj.tech](https://kannada-ott.shashankj.tech) | [shashank-workspace/kannada-ott](https://github.com/shashank-workspace/kannada-ott) |
+| 9 | **Campus Search** | [campus-search.shashankj.tech](https://campus-search.shashankj.tech) | [shashank-workspace/campus-search](https://github.com/shashank-workspace/campus-search) |
+| 10 | **DevFlow Pro** | [devflow-pro.shashankj.tech](https://devflow-pro.shashankj.tech) | [shashank-workspace/devflow-pro](https://github.com/shashank-workspace/devflow-pro) |
+| 11 | **AURA Customer Support** | [aura-customer-support.shashankj.tech](https://aura-customer-support.shashankj.tech) | [shashank-workspace/aura-customer-support](https://github.com/shashank-workspace/aura-customer-support) |
+| 12 | **Portfolio** | [shashankj.tech](https://shashankj.tech) | [shashank-workspace/portfolio](https://github.com/shashank-workspace/portfolio) |
 
-## Top 10 live deployments
-
-1. [NetPulse](https://netpulse.shashankj.tech) — https://netpulse.shashankj.tech
-2. [LifeStream V3](https://lifestream-v3.shashankj.tech) — https://lifestream-v3.shashankj.tech
-3. [Smart Attendance System](https://smart-attendance-system.shashankj.tech) — https://smart-attendance-system.shashankj.tech
-4. [Placement Clash Resolver](https://placement-clash-resolver.shashankj.tech) — https://placement-clash-resolver.shashankj.tech
-5. [Campus Search](https://campus-search.shashankj.tech) — https://campus-search.shashankj.tech
-6. [Phoenix](https://phoenix.shashankj.tech) — https://phoenix.shashankj.tech
-7. [Devflow-Pro](https://devflow-pro.shashankj.tech) — https://devflow-pro.shashankj.tech
-8. [RegulAIte](https://regulaite.shashankj.tech) — https://regulaite.shashankj.tech
-9. [ArchitectAI Studio](https://architectai-studio.shashankj.tech) — https://architectai-studio.shashankj.tech
-10. [FLARE](https://flare.shashankj.tech) — https://flare.shashankj.tech
-
-## Raw URLs (copy/paste friendly)
+## Raw Live URLs
 
 ```text
-https://netpulse.shashankj.tech
 https://lifestream-v3.shashankj.tech
-https://smart-attendance-system.shashankj.tech
-https://placement-clash-resolver.shashankj.tech
-https://campus-search.shashankj.tech
-https://phoenix.shashankj.tech
-https://devflow-pro.shashankj.tech
 https://regulaite.shashankj.tech
-https://architectai-studio.shashankj.tech
 https://flare.shashankj.tech
+https://placement-clash-resolver.shashankj.tech
+https://phoenix.shashankj.tech
+https://smart-attendance-system.shashankj.tech
+https://net-pulse.shashankj.tech
+https://kannada-ott.shashankj.tech
+https://campus-search.shashankj.tech
+https://devflow-pro.shashankj.tech
+https://aura-customer-support.shashankj.tech
+https://shashankj.tech
 ```
 
-## Repository index
-
-See [PROJECTS.md](./PROJECTS.md) for the canonical repository list, clone commands, repository IDs, and live deployment details.
-
-## Notes
-
-- Live deployment URLs are listed in PROJECTS.md as well.
-- This README is intended as a quick-access landing page for the live projects and the GitHub profile.
+For the detailed repository index, clone commands, IDs, and project metadata, see [PROJECTS.md](./PROJECTS.md).
